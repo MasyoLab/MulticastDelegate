@@ -1,0 +1,3 @@
+# Multicast Delegate
+
+UnrealC++ のMulticastDelegateのようなもの。
